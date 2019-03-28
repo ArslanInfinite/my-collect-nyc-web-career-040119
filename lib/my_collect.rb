@@ -1,7 +1,7 @@
 
 def my_collect(collection)
   new_collection = []
-  counter = 4
+  counter = 0
   loop do
       if counter >= 4
       break
