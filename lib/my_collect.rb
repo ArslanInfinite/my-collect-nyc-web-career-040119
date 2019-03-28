@@ -3,7 +3,7 @@ def my_collect(collection)
   new_collection = []
   counter = 0
   loop do
-      if counter >= 4
+      if counter >= collection.length
       break
     end
       counter = counter + 1
