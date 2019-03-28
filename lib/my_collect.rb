@@ -9,5 +9,5 @@ def my_collect(collection)
       counter = counter + 1
   end
     # collection.collect {x + 5} do |collected|
-  
+
 end
