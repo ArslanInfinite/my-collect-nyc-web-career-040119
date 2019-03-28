@@ -9,4 +9,5 @@ def my_collect(collection)
       end
       counter = counter + 1
       end
+      new_collection
 end
