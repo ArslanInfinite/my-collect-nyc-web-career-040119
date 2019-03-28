@@ -1,9 +1,9 @@
 
 def my_collect(collection)
   new_collection = []
-  counter = 0
+  counter = 4
   loop do
-      if counter >= 5
+      if counter >= 4
       break
     end
       counter = counter + 1
