@@ -8,5 +8,5 @@ break
 end
   end
     # collection.collect {x + 5} do |collected|
-  
+
 end
