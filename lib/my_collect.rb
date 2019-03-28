@@ -3,5 +3,5 @@ def my_collect(collection)
     collection.each do |collected|
             collected.upcase
     end
-  new_collection
+
 end
