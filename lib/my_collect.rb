@@ -1,7 +1,7 @@
 
 def my_collect(collection)
   new_collection = []
-  counter = 1
+  counter = 0
   loop do
       new_collection << yield(collection[counter])
       if counter >= collection.length - 1
