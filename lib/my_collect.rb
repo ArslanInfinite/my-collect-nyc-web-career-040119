@@ -4,7 +4,7 @@ def my_collect(collection)
   counter = 0
   loop do
       new_collection << yield(collection[0])
-      if counter >= collection.length
+      if counter >= collection.length -1
       break
       end
       counter = counter + 1
