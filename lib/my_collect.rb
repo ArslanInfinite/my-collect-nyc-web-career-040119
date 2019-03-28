@@ -3,5 +3,5 @@ def my_collect(collection)
     collection.each do |collected|
             collected.upcase
     end
-    name.split(" ").first
+  new_collection
 end
