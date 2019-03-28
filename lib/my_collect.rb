@@ -1,12 +1,12 @@
 def my_collect(collection)
   new_collection = []
-  loop do 
+  loop do
 if counter >= 5
-  
+
 end
-    
+
     break
-  end  
+  end
     collection.collect {x + 5} do |collected|
     end
 end
