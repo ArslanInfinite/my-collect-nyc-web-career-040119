@@ -6,3 +6,10 @@
 #    end
 #  expect(counter).to eq(0)
 # end
+
+def my_collect(collection)
+
+collection.each do |lang|
+  lang.upcase
+end
+end
