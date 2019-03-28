@@ -5,6 +5,3 @@ def my_collect(collection)
       collected.upcase
     end
 end
-
-
-
