@@ -1,9 +1,7 @@
-def my_collect(arguments)
+def my_collect(collection)
   new_collection = []
     collection.each do |collected|
       collected.upcase
     end
-    array.each do |names|
-      names.split(" ").first
-    end
+
 end
