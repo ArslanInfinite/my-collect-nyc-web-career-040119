@@ -1,6 +1,6 @@
 def my_collect(collection)
   new_collection = []
-    collection.each do |lang|
-      lang.upcase
+    collection.each do |collected|
+      collected.upcase
     end
 end
